@@ -6,12 +6,12 @@ Date  :21/05/2021
 #include<stdio.h>
 int main(){
     int number1, number2,sum;
-    printf("Enter any two digits:\n");
-    printf("Enter the first digit=");
+    printf("Enter any two digits:");
+    printf("\nEnter the first digit=");
     scanf("%d",&number1);
     printf("\nEnter the second digit=");
     scanf("%d",&number2);
     sum=number1 +number2;
-    printf("Sum of two numbers = %d",sum);
+    printf("\nSum of two numbers = %d",sum);
     return 0;
 }
