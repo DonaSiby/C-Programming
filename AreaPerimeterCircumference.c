@@ -1,6 +1,6 @@
 /*************************************************************************************************
 Author:Dona Siby
-Title :Program to welcome one to this world of c programming.
+Title :Area Perimeter and Circumference.
 Date  :22/05/2021
 *************************************************************************************************/
 #include<stdio.h>
