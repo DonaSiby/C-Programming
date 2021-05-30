@@ -6,7 +6,7 @@ Date  :21/05/2021
 #include<stdio.h>
 int main(){
     int number1, number2,sum;
-    printf("Enter any two digits:");
+    printf("\nEnter any two digits:");
     printf("\nEnter the first digit=");
     scanf("%d",&number1);
     printf("\nEnter the second digit=");
