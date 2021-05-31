@@ -15,6 +15,6 @@ int main(){
   
   //Conditional operator.
    maximumNumber=number1>number2?number1:number2;
-   printf("The maximum number is  %d",maximumNumber);
+   printf("The largest number is  %d",maximumNumber);
    return 0;
 }
